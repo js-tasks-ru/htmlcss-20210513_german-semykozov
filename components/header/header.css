@@ -11,3 +11,9 @@
     line-height: 64px;
     color: #212429;
 }
+
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
